@@ -1,0 +1,21 @@
+step-1 Install uv in the local system 
+
+step-2 create a folder and open vs code in it and open then terminal and write 
+
+uv init newinsurance 
+
+
+step-3  close the vs code and open terminal adn write command for virtual environment 
+
+uv venv 
+
+.venv\Scripts\activate 
+
+
+step-4  create a requirements.txt in which we have all the packages for install .
+
+uv add requirements.txt
+
+step-5 write all hte logics in main.py 
+
+
